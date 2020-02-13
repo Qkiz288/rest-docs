@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/Qkiz288/rest-docs.svg?style=svg)](https://circleci.com/gh/Qkiz288/rest-docs)
 
 # Spring Framework 5 MVC Rest Application for Rest Docs
 
